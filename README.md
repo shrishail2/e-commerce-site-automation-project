@@ -1,5 +1,5 @@
-## e-commerce-site-automation-project
-java,maven,selenium,testng,bdd cucumber,manual testing
+# e-commerce-site-automation-project
+# java,maven,selenium,testng,bdd cucumber,manual testing
 - if java --version, mvn --version output do not provide the Expected results then go for below Steps.
 
 ## set up steps
