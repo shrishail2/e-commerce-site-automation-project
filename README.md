@@ -1,9 +1,12 @@
 # e-commerce-site-automation-project
 java,maven,selenium,testng,bdd cucumber,manual testing
 
-##set up steps 
+##set up steps:
+
 **VS Code installation** 
+
 **java jdk installation**
+
 **Vs code extensions**
 -  	Language Support for Java(TM) by Red Hat- Provides Java code completion, linting, formatting, and project support
 - 	Maven for Java: Helps manage Maven projects directly in VS Code.
