@@ -21,4 +21,11 @@ java,maven,selenium,testng,bdd cucumber,manual testing
 -	Download the latest Maven zip from: https://maven.apache.org/download.cgi and Dont forget to Extract_it:) and Place in some drive 
 -	Add maven path in system variables :  Name: MAVEN_HOME ,Value: apache-maven-3.9.11
 -  Add maven Bin path to the path Set Name: PATH ,Value: apache-maven-3.9.11\bin
+  
+**Steps for java maven Project creation**
+**click->create java project -> click maven** 
+- select maven-archetype-quickstart:) whyyy??
+- For a project structure: maven-archetype-quickstart instantly creates the standard folders (src/main/java, src/test/java), eliminating manual setup and potential errors
+- For a ready-to-run template: This archetype generates a functional pom.xml with essential configurations and dependencies, giving you a solid starting point for your project
+- You can simply use it and then customize the generated pom.xml by adding your specific automation dependencies (like Selenium and TestNG).
 
