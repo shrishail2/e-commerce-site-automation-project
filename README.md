@@ -28,4 +28,8 @@ java,maven,selenium,testng,bdd cucumber,manual testing
 - For a project structure: maven-archetype-quickstart instantly creates the standard folders (src/main/java, src/test/java), eliminating manual setup and potential errors
 - For a ready-to-run template: This archetype generates a functional pom.xml with essential configurations and dependencies, giving you a solid starting point for your project
 - You can simply use it and then customize the generated pom.xml by adding your specific automation dependencies (like Selenium and TestNG).
+- DgroupId=com.Autm 
+- DartifactId=e-commerce-automation-framework 
+- DarchetypeArtifactId=maven-archetype-quickstart
+- Press Enter if it asks inputs while creating and Building your project in vs code terminal
 
