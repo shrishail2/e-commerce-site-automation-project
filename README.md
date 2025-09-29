@@ -12,4 +12,8 @@ set up steps
 4  Maven Installation-Maven is a build automation tool for Java projects. You need to install Maven and add it to your system PATH so you can run Maven commands from PowerShell	
 5    GitHub Repository: You should create a GitHub repository to store your project code and track changes
 6   Project Initialization: After installing the above, you’ll initialize a Maven project in your repo, which will be the foundation for your automation framework
+Maven set Up:
+	Download the latest Maven zip from: https://maven.apache.org/download.cgi and Dont forget to Extract_it:) and Place in some drive 
+	Add maven path in system variables :  Name: MAVEN_HOME ,Value: apache-maven-3.9.11
+   Add maven Bin path to the path Set Name: PATH ,Value: apache-maven-3.9.11\bin
 
